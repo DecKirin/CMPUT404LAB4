@@ -1,0 +1,29 @@
+Question 1:
+    https://github.com/DecKirin/CMPUT404LAB4
+
+Quetion 2:
+    Using brower to access localhost to get a rocket page created by django for install worked successfully.\
+
+Question 3:
+    When using "/" it will show page no found error but using "polls" would get a sting "Hello, world. You're at the polls index."
+
+Question 4:
+    Migration is a good way to modify the actual database structure, for us it is easier way to apple changes to our databases.
+
+Question 5:
+    After log into the Django adminstration site there is the groups for authorization and the users for authentication
+    The model is inside the groups there are different authentication for each group of users depend on their level
+
+Question 6:
+    "/polls/38/": The browers return a string "You're looking at question 38."
+    "/polls/38/results": The browers return a string "You're looking at the results of question 38."
+    "/polls/38/vote": The browers return a string "You're voting on question 38."
+
+    Add if condition to it and change the input into byte array.
+
+Question 7:
+    Hardcoded urls can only access by the fix path but with a smart url which is easier to navigate even the path has changed
+
+Question 8:
+    
+    
