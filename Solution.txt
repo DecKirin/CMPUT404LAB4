@@ -25,5 +25,9 @@ Question 7:
     Hardcoded urls can only access by the fix path but with a smart url which is easier to navigate even the path has changed
 
 Question 8:
-    
+    The most significant benefits is django generic views reduce the amount of codes for the project which also reduce the repetition work
+    if the work could be easily done but going to repeat, its a good way of genric view use
+    but if the work needs to be spcification like the voting function
+    using generic view is not going to handle it.
+
     
